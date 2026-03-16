@@ -32,6 +32,6 @@ Este projeto apresenta um **Dashboard interativo** desenvolvido no **Power BI**,
 
 ## 🚀 Próximos Passos
 
-- Inclusão de filtros interativos por região e faixa etária.
+- Inclusão de filtros interativos por região | faixa etária | idaded
 - Análise temporal: comparativos entre períodos.
 - Exportação automatizada de relatórios em PDF.
