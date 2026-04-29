@@ -1,6 +1,6 @@
 # 📊 Dashboard de Análise de Aluguéis - Power BI
 
-Este projeto apresenta um **Dashboard interativo** desenvolvido no **Power BI**, com foco na visualização e análise de dados sobre o mercado de aluguéis no Brasil.
+Este projeto apresenta um **Dashboard interativo** desenvolvido no **Power BI**, com foco na visualização, limpeza de dados e análise de dados sobre o mercado de aluguéis no Brasil.
 
 ## ✅ Objetivos
 
